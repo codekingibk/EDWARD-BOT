@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: edward-bot
+    env: node
+    plan: free
+    autoDeploy: true
+    buildCommand: bash ./render-deploy.sh build
+    startCommand: bash ./render-deploy.sh start
+    envVars:
+      - key: NODE_VERSION
+        value: 24
