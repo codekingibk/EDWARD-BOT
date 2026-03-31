@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 6f0644552c9f671051d5acdb13f712a42b0d117f agent <agent@replit.com> 1774032276 +0000	commit (initial): Initial commit
+6f0644552c9f671051d5acdb13f712a42b0d117f 970b63ec3c7eabca7ca74e7b3ebf99e59a385f40 gboyegaibk <38898366-gboyegaibk@users.noreply.replit.com> 1774445896 +0000	commit: Add comprehensive user interface for bot management and configuration
+970b63ec3c7eabca7ca74e7b3ebf99e59a385f40 e7471f218d92c745c8d1e7701a340edefb9b100f gboyegaibk <38898366-gboyegaibk@users.noreply.replit.com> 1774446838 +0000	commit: Add real-time communication features and integrate Socket.IO
+e7471f218d92c745c8d1e7701a340edefb9b100f 0ed09a5624225da904d07ada02a917db5b330ab0 gboyegaibk <38898366-gboyegaibk@users.noreply.replit.com> 1774447146 +0000	commit: Add WhatsApp integration using the Baileys library

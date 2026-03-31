@@ -1,0 +1,10 @@
+Add WhatsApp integration using the Baileys library
+
+Integrates WhatsApp functionality by adding the Baileys library, updating build configurations, and implementing a new WhatsApp session manager.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 2ce86e50-b6c1-4e02-b686-f44c69952210
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 2b830b12-0fd7-47cd-b438-3cda96859522
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/b9e042d5-6c0a-4028-be31-997a98d25445/2ce86e50-b6c1-4e02-b686-f44c69952210/dhJ1MXk
+Replit-Helium-Checkpoint-Created: true
